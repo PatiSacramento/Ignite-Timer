@@ -27,3 +27,23 @@ do curso Ignite, especialização em Reactjs da Rocketseat.
 - Immer
 - Phosphor-Icons
 - Date-fns
+
+## Contribuindo ou testando localmente 
+
+```
+# Clone o repositório 
+
+$ git clone github.com/seu-usuario/repositorio.git
+```
+
+```
+# Instale as dependências 
+
+$ npm install
+```
+
+```
+# Rode o projeto
+
+$ npm run dev
+```
